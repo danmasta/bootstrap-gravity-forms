@@ -1,4 +1,4 @@
-(function(){
+(function($){
     var gform = $(document).find('.gform_wrapper').attr('class');
     if(typeof gform !== 'undefined' && gform !== 'false'){
         $(document).on('gform_post_render',function(){
@@ -37,4 +37,4 @@
         console.log('no forms were found');
         return false;
     }
-})();
+})(jQuery);
