@@ -13,7 +13,7 @@ Drop in function to add Bootstrap 3 support to Gravity Forms
 * Speeds up development time when using gravity forms and Bootstrap syntax/ styles
 
 ###How to use
-Just add function.js anywhere in your page, or you can copy the function and paste it into your own js file. It will run automatically, on each form rendering.
+Just add bootstrap-gravity-forms.js anywhere in your page, or you can copy the function and paste it into your own js file. It will run automatically, on each form rendering.
 
 Disable css output in gravity forms is you wish to use Bootstrap styles only
 
