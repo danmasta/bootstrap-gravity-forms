@@ -15,7 +15,7 @@ Drop in function to add Bootstrap 3 support to Gravity Forms
 ###How to use
 Just add bootstrap-gravity-forms.js anywhere in your page, or you can copy the function and paste it into your own js file. It will run automatically, on each form rendering.
 
-Disable css output in gravity forms is you wish to use Bootstrap styles only
+Disable css output in gravity forms settings if you wish to use Bootstrap styles only
 
 ###Notes
 This plugin requires jQuery to be loaded before running. If you are using Wordpress, it is already set for noConflict compatibility.
